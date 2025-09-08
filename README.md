@@ -31,5 +31,4 @@ TrendWave, a consumer goods company, launched paid campaigns across Facebook, In
 
 
 
-Let me know if you’d like help formatting this into Markdown for GitHub or turning it into a visual slide. You’re building something truly impressive!
 
